@@ -1,0 +1,36 @@
+/* Hide Star Rating On Timeline*/
+
+strong[class="rating_num"] {display: none}
+span[class="rating-stars"] {display: none}
+
+/* Hide Star Rating Box*/
+
+div[class="rating_wrap clearbox"] {display: none}
+
+/* Hide Star Rating */
+
+.allstar50, .allstar40, span.allstar30, span.allstar20, span.allstar10, span.allstar00 {
+  display: none;
+}
+
+.allstar45, .allstar35, span.allstar25, span.allstar15, span.allstar05 {
+  display: none;
+}
+
+/* Hide Star Rating On Doulist Page */
+
+div[class="star clearfix"] {display: none}
+span[class="rating_nums"] {display: none}
+
+span.rating1-t, span.rating2-t, span.rating3-t, span.rating4-t, span.rating5-t {display: none}
+
+/* Hide Star Rating On Movie Page */
+
+#dale_movie_subject_top_right, #dale_movie_subject_inner_middle, #dale_movie_subject_middle_right, #dale_movie_subject_bottom_super_banner {
+  display: none;
+}
+div[class="info"]>em {display: none}
+
+/* Hide Star Rating On Douban Note */
+
+div[class="subject-rating"] {display: none}

@@ -1,0 +1,4 @@
+div[class="grid_c1"] {display: none;}
+div[id="footer-2017"] {display: none;}
+div[class="aside-bar"] {display: none;}
+div[id="service-2017"] {display: none;}

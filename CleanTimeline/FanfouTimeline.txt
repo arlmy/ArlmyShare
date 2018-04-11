@@ -1,0 +1,16 @@
+.textarea-wrapper textarea {
+  height: 665px !important;
+ }
+
+#friends, #goodapp, #reminder, #user_top, .sect, #user_stats, #searchr, #timeline-notification, .method, .stamp, .avatar, .former, .nickquery, .photo, #footer, .stabs, #iconset {
+  display: none;
+}
+
+p[class="pngfix global-header-content logo20171027"] {display: none;}
+img[class="msgat"] {display: none;}
+a[class="label test_feature"] {display: none;}
+span[class="counter"] {display: none;}
+h2[class="slogan"] {display: none;}
+a[class="global-header-anchor"] {display: none;}
+div[id="navigation"] {display: none;}
+td[id="sidebar"] {display: none;}

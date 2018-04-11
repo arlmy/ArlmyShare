@@ -1,0 +1,172 @@
+/* Reset input area size */
+
+
+/***** Hide Ads on the right *****/
+
+/* Homepage */
+
+#dale_homepage_login_top_right,
+#dale_homepage_login_inner_middle, 
+#dale_homepage_login_bottom_right,
+#dale_homepage_login_top_right,
+#dale_personal_note_top_right, 
+#dale_personal_note_middle_right, 
+.notify-mod, 
+.top-nav-doubanapp,
+.download-app, 
+#friend, 
+#fp-sites, 
+#anony-time,
+#events {
+  display: none;
+}
+
+div[class="verify-avatar"] {display: none;}
+div[class="usr-pic"] {display: none;}
+span[class="rec_topics_subtitle"] {display: none;}
+img[src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif"] {display: none;}
+div[class="block note-block"] img {display: none;}
+div[class="block url-block"] img {display: none;}
+
+span[class="group-pic"] img {width: 50px;}
+div[class="pic-wrap"] img {width: 50px;}
+
+
+div[data-target-type="ad"] {
+  display: none;
+}
+
+/* Personal Note Pages */
+
+#dale_personal_note_top_right, 
+#dale_personal_note_inner_bottom, 
+#dale_personal_note_bottom_super_banner {
+  display: none;
+}
+
+
+
+/* Book Pages */
+
+#dale_book_home_inner_middle, 
+#dale_book_subject_top_right, 
+#dale_book_subject_middle_mini, 
+#dale_book_subject_middle_right, 
+#dale_book_subject_search_top_right, 
+#dale_book_subject_comments_bottom_right, 
+#dale_book_subject_bottom_super_banner_frame, 
+#dale_book_subject_bottom_super_banner, 
+#dale_book_review_middle_mini, 
+#dale_book_doulist_top_right,
+#dale_book_doulist_bottom,
+#dale_book_tag_top_right, 
+#dale_book_tags_top_right, 
+#dale_book_tag_bottom_banner, 
+#dale_book_recommended_top_right, 
+#dale_book_recommended_bottom_banner,
+#dale_book_updates_top_right, 
+#dale_book_updates_bottom_banner {
+  display: none;
+}
+
+div[id="collector"] img {display: none;}
+div[id="db-rec-section"] img {width: 80px;}
+div[id="rec-ebook-section"] img {width: 80px;}
+div[class="main review-item"] img {display: none;}
+div[id="interest_sectl"] img {display: none;}
+
+/* Music Pages */
+
+.app-music, 
+#dale_music_home_top_right, 
+#dale_music_home_bottom_right, 
+#dale_music_subject_top_right, 
+#dale_music_subject_middle_right, 
+#dale_music_subject_comments_bottom_right,
+#dale_music_tag_top_right {
+  display: none;
+}
+
+
+div[id="recommendations"] img {width: 80px;}
+div[id="subject-others-interests"] img {display: none;}
+div[id="interest_sectl"] img {display: none;}
+
+/* Movie Pages */
+
+.hot_link, 
+#movie_home_left_bottom, 
+#dale_movie_home_top_right, 
+#dale_movie_home_bottom_right, 
+#dale_movie_home_inner_bottom, 
+#dale_movie_homepage_bottom,
+#dale_movie_subject_comments_bottom_right, 
+#dale_movie_celebrity_top_right, 
+#dale_movie_celebrity_middle_mini_frame, 
+#dale_movie_celebrity_bottom, 
+#dale_movie_celebrity_movies_bottom_right, 
+#dale_movie_doulist_top_right, 
+#dale_doulist_bottom, 
+#dale_movie_tag_top_right, 
+#dale_movie_review_top_right, 
+#dale_movie_review_bottom_right, 
+#dale_movie_discussion_top_right {
+  display: none;
+}
+
+/* Group Pages */
+
+#dale_newgroup_home_inner_middle, 
+#dale_newgroup_home_bottom_right_201211, 
+#dale_group_home_new_top_right,
+#dale_group_topic_new_top_right, 
+#dale_group_topic_new_bottom_right, 
+#dale_group_topic_new_inner_middle, 
+#dale_group_home_middle_right, 
+#dale_group_explore_bottom_right, 
+#dale_each_group_home_bottom_right {
+  display: none;
+}
+
+/* Event Pages */
+
+#dale_location_home_top_right, 
+#dale_location_home_bottom_right, 
+#dale_location_home_inner_bottom, 
+#dale_location_beijing_home_left_bottom,
+#dale_location_beijing_home_left_middle,
+#dale_event_page_top_right, 
+#dale_event_page_inner_middle, 
+#dale_event_page_bottom_right, 
+#dale_event_subject_bottom_super_banner {
+  display: none;
+}
+
+/* Other Pages */
+
+#dale_explore_home_middle_right, 
+#dale_subject_search_top_right, 
+#dale_site_normal_right_bottom,
+#dale_site_publisher_right_bottom,
+#dale_site_translator_right_bottom,
+#dale_site_host_right_bottom,
+#dale_site_cinema_right_bottom,
+#dale_site_artist_right_bottom,
+#dale_game_subject_top_right,
+#dale_online_page_top_right,
+#dale_dongxi_top_banner,
+#dale_book_writers_top_right,
+#dale_movie_subject_search_top_right,
+#dale_movie_subject_search_bottom,
+#dale_music_subject_search_top_right,
+#dale_music_subject_search_bottom,
+#dale_book_subject_search_top_right,
+#dale_book_subject_search_bottom,
+#dale_mixed_doulist_top_right,
+#dale_mixed_doulist_bottom,
+#dale_explore_bottom_banner {
+  display: none;
+}
+
+
+

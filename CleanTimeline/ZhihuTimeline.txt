@@ -1,0 +1,81 @@
+/***** Hide Ads on the right *****/
+
+div[data-za-module="ExternalAdItem"] {display: none;}
+
+/***** Hide Ads in the timeline *****/
+
+div[class="Advert--card"] {display: none;}
+div[data-za-module="AdItem"] {display: none;}
+div[class="AdblockBanner"] {display: none;}
+button[class="Button TopstoryItem-advertButton Button--plain"] {display: none;}
+
+/***** Hide Thumb-ups in the timeline *****/
+
+div[class="ContentItem-actions"] {display: none;}
+a[class="zm-item-vote-count js-expand js-vote-count"] {display: none;}
+div[class="zm-item-vote"] {display: none;}
+
+/***** Hide Recommend items in the timeline *****/
+
+div[class="ActionCard"] {display: none;}
+div[class="section-title"] {display: none;}
+ul[class="list hot-favlists"] {display: none;}
+
+/***** Hide Recommend items on the right *****/
+
+div[data-za-module="CollectionList"] {display: none;}
+div[class="RelatedLives-remixMeta"] {display: none;}
+
+/***** Hide images *****/
+
+div[class="RichContent-cover"] {display: none;}
+img[class="Avatar AuthorInfo-avatar"] {display: none;}
+a[class="UserLink-badge"] {display: none;}
+img[class="Avatar Avatar--large"] {display: none;}
+div[class="Card AnswerAuthor"] {display: none;}
+img[class="Avatar Avatar--medium RelatedLives-avatar"] {display: none;}
+a[class="avatar-link"] {display: none;}
+img[class="origin_image inline-img zh-lightbox-thumb"] {display: none;}
+span[class="icon icon-badge-best_answerer icon-badge"] {display: none;}
+span[class="OrgIcon sprite-global-icon-org-14"] {display: none;}
+div[class="avatar"] {display: none;}
+span[class="icon icon-badge-id-an icon-badge"] {display: none;}
+span[class="TopstorySideBar-categoryIcon"] {display: none;}
+img[class="RelatedLives-image"] {display: none;}
+div[class="RelatedLives-scoreWrapper"] {display: none;}
+img[class="RelatedCommodities-image"] {display: none;}
+
+/***** Hide More *****/
+
+div[class="AuthorInfo-badge"] {display: none;}
+footer[class="Footer"] {display: none;}
+button[class="Button QuestionAskButton SearchBar-askButton Button--primary Button--blue"] {display: none;}
+div[class="Card-header SimilarQuestions-title"] {display: none;}
+div[class="Card-header RelatedLives-title"] {display: none;}
+div[class="RelatedLives-description"] {display: none;}
+div[class="RelatedLives-meta"] {display: none;}
+div[class="CornerAnimayedFlex"] {display: none;}
+div[class="Feed-meta"] {display: none;}
+span[class="TopstorySideBar-navNumber"] {display: none;}
+svg[class="Icon Icon--question"] {display: none;}
+svg[class="Icon Icon--paper"] {display: none;}
+svg[class="Icon Icon--write"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--star"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--questionList"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--invite"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--coupon"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--service"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--copyright"] {display: none;}
+svg[class="Icon TopstorySideBar-navIcon Icon--publicEdit"] {display: none;}
+svg[class="Icon Icon--logo"] {display: none;}
+a[class="AppHeader-navItem"] {display: none;}
+a[class="AppHeader-navItem"] {display: none;}
+div[class="Card QuestionInvitation"] {display: none;}
+button[class="Button Button--plain"] {display: none;}
+button[class="Button QuestionHeader-edit Button--plain"] {display: none;}
+button[class="Button Button--blue"] {display: none;}
+button[class="Button QuestionFollowStatus-people Button--plain"] {display: none;}
+div[class="Card-headerText"] {display: none;}
+div[class="Card-header AnswerInfo-title"] {display: none;}
+div[class="RelatedCommodities-bookMeta"] {display: none;}
+div[class="RelatedCommodities-meta"] {display: none;}
