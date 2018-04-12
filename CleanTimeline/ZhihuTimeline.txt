@@ -1,6 +1,7 @@
 /***** Hide Ads on the right *****/
 
 div[data-za-module="ExternalAdItem"] {display: none;}
+ul[class="GlobalSideBar-categoryList"] svg {display: none;}
 
 /***** Hide Ads in the timeline *****/
 
@@ -20,6 +21,7 @@ div[class="zm-item-vote"] {display: none;}
 div[class="ActionCard"] {display: none;}
 div[class="section-title"] {display: none;}
 ul[class="list hot-favlists"] {display: none;}
+div[class="EventcardItem"] img {display: none;}
 
 /***** Hide Recommend items on the right *****/
 

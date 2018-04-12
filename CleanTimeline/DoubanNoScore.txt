@@ -24,13 +24,24 @@ span[class="rating_nums"] {display: none}
 
 span.rating1-t, span.rating2-t, span.rating3-t, span.rating4-t, span.rating5-t {display: none}
 
-/* Hide Star Rating On Movie Page */
+/* Hide Star Rating On Movie and Book Page */
 
 #dale_movie_subject_top_right, #dale_movie_subject_inner_middle, #dale_movie_subject_middle_right, #dale_movie_subject_bottom_super_banner {
   display: none;
 }
 div[class="info"]>em {display: none}
+li[class="rating"] span {display: none}
+div[class="slide-page"] span[class="green"] {display: none}
+div[class="slide-page"] span[class="green"]+strong {display: none}
+div[class="slide-page"] div[class="cover-wp"]+p strong {display: none}
+p[class="entry-star-small"] span[class="average-rating"] {display: none}
 
 /* Hide Star Rating On Douban Note */
 
 div[class="subject-rating"] {display: none}
+
+/* Hide Star Rating On Douban Guess */
+
+span.allstar50.star-img, span.allstar45.star-img, span.allstar40.star-img, span.allstar35.star-img, span.allstar30.star-img, span.allstar25.star-img, span.allstar20.star-img, span.allstar15.star-img, span.allstar10.star-img, span.allstar05.star-img {display: none}
+span.allstar50.star-img+span, span.allstar45.star-img+span, span.allstar40.star-img+span, span.allstar35.star-img+span, span.allstar30.star-img+span, span.allstar25.star-img+span, span.allstar20.star-img+span, span.allstar15.star-img+span {display: none}
+
