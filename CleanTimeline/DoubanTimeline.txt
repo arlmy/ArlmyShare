@@ -26,10 +26,12 @@ div[class="usr-pic"] {display: none;}
 span[class="rec_topics_subtitle"] {display: none;}
 img[src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif"] {display: none;}
 div[class="block note-block"] img {display: none;}
-div[class="block url-block"] img {display: none;}
-
+div[class="block url-block"]  img {display: none;}
+div[class="bd rec"] img {display: none;}
+a[class="usr-pic "] img {display: none;}
 span[class="group-pic"] img {width: 50px;}
 div[class="pic-wrap"] img {width: 50px;}
+div.post-author-avatar img {display: none;}
 
 
 div[data-target-type="ad"] {
@@ -164,9 +166,12 @@ div[id="interest_sectl"] img {display: none;}
 #dale_book_subject_search_bottom,
 #dale_mixed_doulist_top_right,
 #dale_mixed_doulist_bottom,
-#dale_explore_bottom_banner {
+#dale_explore_bottom_banner,
+div.group-editor-card-cover {
   display: none;
 }
 
+/* Write Note Page */
 
-
+div.DRE-toolbar {display: none;}
+h1.nav-label {display: none;}
