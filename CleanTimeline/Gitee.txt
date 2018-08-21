@@ -1,0 +1,7 @@
+footer#git-footer-main {
+    display: none;
+}
+
+div[class="ui menu"], div[class="enterprise-action"] {
+    display: none;
+}
